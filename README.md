@@ -25,4 +25,13 @@ O programa recebe um ficheiro com:
 
 ---
 
+## 📄 Relatório  
+
+O ficheiro [relatorio-ASA2425P1.pdf](./relatorio-ASA2425P1.pdf) contém informações detalhadas sobre este projeto, incluindo:  
+- **Descrição do problema e da solução proposta**: raciocínio utilizado  
+- **Análise teórica do problema**: pseudo código da solução proposta e complexidade de cada etapa  
+- **Avaliação experimental dos resultados**: gráfico do tempo em função da complexidade teórica prevista  
+
+---
+
 📄 **Nota:** Para mais exemplos e explicações detalhadas, consultar [enunciado-ASA2425P1.pdf](./enunciado-ASA2425P1.pdf)
